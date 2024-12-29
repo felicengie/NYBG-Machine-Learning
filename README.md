@@ -23,7 +23,7 @@ This project supports global biodiversity studies by automating the filtering of
 
 ## Dataset
 
-The dataset used for training and testing the model is provided by NYBG via Kaggle. It contains a diverse set of images representing the above categories. [Learn more about the dataset here](https://www.gbif.org/).
+The dataset used for training and testing the model is provided by NYBG via Kaggle. It contains a diverse set of images representing the above categories. [Learn more about the dataset here]([https://www.gbif.org/](https://www.kaggle.com/competitions/bttai-nybg-2024/data)).
 
 ## Model
 
