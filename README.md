@@ -8,8 +8,6 @@ This repository contains the machine learning model developed for the New York B
 - [Model](#model)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 
@@ -62,11 +60,3 @@ To use the trained model for predictions:
 ```bash
 python predict.py --input <path_to_image>
 ```
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request to discuss potential improvements or report bugs.
-
-## License
-
-This project is licensed under the MIT License.
